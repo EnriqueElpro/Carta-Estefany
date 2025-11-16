@@ -51,7 +51,7 @@ body {
 
 .mensaje p{
     position: relative;
-    top: -22px;
+    top: -10px;
     font-size: 1.2rem;
 }
 
@@ -64,7 +64,7 @@ body {
 
 .bx {
     position: absolute;
-    color: #ebe2e4;
+    color: #f6406a;
     top: 90px;
     right: 155px;
     font-size: 50px;
@@ -110,8 +110,8 @@ body {
 }
 
 .bx-rotada {
-    color: #f3eff0;
-    animation: forwards; 
+    color: #f0eaeb;
+    animation: none; 
 }
 
   
